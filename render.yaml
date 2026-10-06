@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: khalile-bijouterie
+    runtime: static
+    staticPublishPath: ./
